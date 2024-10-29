@@ -76,4 +76,6 @@ Codenvibe specializes in creating automation bots that enhance productivity. For
 
 ---
 
+### 📈 GitHub Stats
 
+![Codenvibe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodenVibe&show_icons=true&hide_border=true&count_private=true&theme=radical)
