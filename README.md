@@ -33,8 +33,8 @@ CodenVibe builds custom websites for local businesses, then runs the marketing t
 - **[Clout9](https://clout9.com)**: a marketplace platform connecting brands with creators
 
 ### Our own products
-- **PatchPings**: website monitoring and security checks on your phone
-- **DailyHisab**: a finance app for keeping daily accounts
+- **[PatchPings](https://patchpings.com)**: website monitoring and security checks on your phone
+- **[DailyHisab](https://dailyhisab.com)**: a finance app for keeping daily accounts
 - **[DocuWay](https://docuway.com)**: document workflow and team management
 
 *120+ projects delivered. This list is a selection.*
