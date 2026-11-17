@@ -1,106 +1,78 @@
 # CodenVibe
 
-### Automation, API & Custom Web Systems for Growing Businesses
+### Custom web design, digital marketing, and iOS and Android apps for local businesses
 
-CodenVibe is an engineering-driven software company building scalable automation workflows, API integrations, SaaS platforms, and high-performance web applications. We deliver production-ready systems architected under senior engineering leadership.
-
----
-
-## 🚀 What We Build
-
-| Service | Description |
-|---------|-------------|
-| **🔌 API Integration & Development** | REST & GraphQL APIs, OAuth2 authentication, webhooks, event-driven systems, 3rd-party integrations |
-| **⚙️ Business Automation** | Workflow automation, CRM integrations, custom bots, data synchronization, process optimization |
-| **💻 Custom Web Development** | Next.js applications, real-time dashboards, multi-tenant SaaS platforms, responsive design |
-| **🛒 WordPress & Shopify** | Custom theme development, performance optimization, e-commerce solutions, payment integration |
-| **🔧 Maintenance & Support** | Bug fixes, security updates, performance tuning, feature releases, ongoing support plans |
-| **📈 SEO Optimization** | Technical SEO audits, Core Web Vitals optimization, schema markup, page speed enhancement |
+CodenVibe builds custom websites for local businesses, then runs the marketing that brings them customers. We also build iOS and Android apps. Founded in 2023, with 120+ projects delivered.
 
 ---
 
-## 💻 Core Tech Stack
+## What we do
 
-| Category | Technologies |
-|----------|--------------|
-| **Backend** | Django · Python · Django REST Framework · GraphQL · WebSockets |
-| **Frontend** | Next.js · React · TypeScript · Tailwind CSS · Framer Motion · GSAP |
-| **Database** | PostgreSQL · Redis |
-| **Infrastructure** | AWS (EC2, S3, Lambda, RDS) · Docker · Cloudflare · CI/CD (GitHub Actions) |
-| **Automation** | n8n · Zapier · Make · Custom Python Scripts · Celery Task Queue |
-| **CMS & E-commerce** | WordPress · WooCommerce · Shopify · Sanity CMS · Contentful |
-| **Auth & Security** | JWT · OAuth2 · OWASP Compliance · Rate Limiting · SSL/TLS |
+| Service | What it covers |
+|---------|----------------|
+| **Custom Web Design** | Websites designed and coded from scratch in Next.js, plus WordPress and Shopify builds. Most launch in 3 to 6 weeks. |
+| **Digital Marketing** | Local SEO, answer engine optimization (AEO), and Google Ads management, with tracking set up before any ad spend. |
+| **App Development** | iOS and Android apps from one Flutter codebase, including store submission and updates after launch. |
+| **Website Maintenance** | Security updates, fixes, and performance checks for the sites we build. |
 
 ---
 
-## 🏆 Selected Projects
+## Selected work
 
-### Corporate Websites & Business Solutions
-- **[KC Linen LLC](https://kclinen.com)** — Industrial manufacturing site built with Next.js
-- **[Salted Hash Tech](https://saltedhashtech.com)** — Cybersecurity company platform
-- **[Southern TX Traditions](https://southerntxtraditions.com)** — Construction/roofing website with custom features
-- **[BRK Roofing](https://brk-roofing.com)** — Roofing services website
-- **[MX2K](https://mx2k.org)** — Technology services platform
+### Local business websites and marketing
+- **[Gulf Island Rentals](https://gulfislandrentals.com)**: website, SEO, and Google Ads for a watercraft rental company in Florida
+- **[Southern TX Traditions](https://southerntxtraditions.com)**: website and SEO for a roofing and construction company in Texas
+- **[BRK Roofing](https://brk-roofing.com)**: website for a roofing company in Texas
+- **[KC Linen](https://kclinen.com)**: website for a hospitality linen supplier in New Orleans
+- **[Salted Hash Tech](https://saltedhashtech.com)**: website for a cybersecurity services company
+- **[Louisiana Golf Club](https://louisianagolfclub.com)**: Shopify store and wholesale portal
+- **[HelloSun](https://hellosun.store)**: website and SEO for a curtains and blinds store
 
-### SaaS Platforms
-- **[Docuway](https://docuway.com)** — Workflow management & team collaboration platform
-- **[Clout9](https://clout9.com)** — Influencer marketplace connecting brands with creators
-- **[Beyond OTC](https://beyondotc.com)** — Cryptocurrency OTC trading platform
-- **CodenVibe Suite** — Enterprise CRM + ERP system with automation workflows
+### Apps and platforms for clients
+- **Probash Journal**: iOS and Android app for a UK company, coming to the App Store and Google Play
+- **[Clout9](https://clout9.com)**: a marketplace platform connecting brands with creators
 
-### Business Automation & Tools
-- **[Captorex](https://captorex.com)** — Business process automation & workflow management
-- **[Affigenie](https://affigenie.com)** — Affiliate marketing management & tracking platform
+### Our own products
+- **PatchPings**: website monitoring and security checks on your phone
+- **DailyHisab**: a finance app for keeping daily accounts
+- **[DocuWay](https://docuway.com)**: document workflow and team management
 
-### E-commerce
-- **[Gadget Flicker](https://www.gadgetflickerbd.com)** — Electronics e-commerce (WordPress/WooCommerce)
-- **[Yupoo Ali](https://yupooali.com)** — Product sourcing platform (Django)
-- **[Vinqin](https://vinqin.com)** — Beauty & cosmetics e-commerce
-- **[Prizla](https://prizla.com)** — Fashion e-commerce platform
-- **[Ali Hidden](https://alihidden.com)** — Exclusive products marketplace (Django)
-- **[Mama Shop BD](https://mamashop.com.bd)** — General retail e-commerce
-
-*120+ projects delivered across technology, finance, e-commerce, construction, health, and more.*
+*120+ projects delivered. This list is a selection.*
 
 ---
 
-## ✨ Why CodenVibe
+## Stack
 
-- **5+ Years of Full-Stack Engineering Experience** — Proven expertise across multiple industries
-- **120+ Projects Delivered Worldwide** — Real results for startups to enterprises
-- **API & Automation Specialists** — Deep expertise in complex system integrations
-- **Senior Engineering Leadership** — All projects architected and reviewed for quality
-- **US-Registered Company** — Professional entity serving international clients
-- **Fast Delivery with Long-Term Support** — Quick turnaround with ongoing partnership options
-
----
-
-## 📞 Get In Touch
-
-**Website:** [codenvibe.com](https://codenvibe.com)
-
-### Email
-| Purpose | Email |
-|---|---|
-| General Inquiries | info@codenvibe.com |
-| Support | support@codenvibe.com |
-| Business | business@codenvibe.com |
-
-
-### Messaging
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/SOK5SSUZ73VKE1)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codenvibe)
-
-### Contact
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@codenvibe.com)
-[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B4B4?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/codenvibe.com)
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Django, Django REST Framework, Python, Celery |
+| **Data** | PostgreSQL, Redis |
+| **Apps** | Flutter |
+| **CMS and e-commerce** | WordPress, WooCommerce, Shopify |
+| **Infrastructure** | Cloudflare, Nginx, GitHub Actions |
+| **Marketing and tracking** | Google Analytics 4, Google Search Console, Google Ads |
 
 ---
 
-## 📄 License & Usage
+## How we work
 
-This README contains public-facing information about CodenVibe. All projects, code, and systems are proprietary unless otherwise specified. Internal operational details and client-sensitive information are intentionally excluded.
+- **You own your code.** The website and its repository are yours.
+- **You own your ad accounts.** Google bills your ad spend to you directly.
+- **Reporting from your own data.** Results come from your Google Analytics and Google Ads accounts.
+- **Founder-led.** The founder leads every build and joins client calls.
 
 ---
 
-*Built with engineering excellence. Delivered with care.*
+## Get in touch
+
+- **Website:** [codenvibe.com](https://codenvibe.com)
+- **Book a free strategy call:** [codenvibe.com/contact-us](https://codenvibe.com/contact-us)
+- **Phone:** +1 (325) 216-5666
+- **Email:** info@codenvibe.com
+
+[LinkedIn](https://www.linkedin.com/company/codenvibe) · [YouTube](https://www.youtube.com/@CodenVibe) · [Instagram](https://www.instagram.com/codenvibeit) · [Clutch](https://clutch.co/profile/codenvibe-it) · [Trustpilot](https://www.trustpilot.com/review/codenvibe.com)
+
+---
+
+All client projects and code are proprietary unless stated otherwise.
